@@ -1,0 +1,19 @@
+{
+  "discipline_name": "Базы данных",
+  "group_number": "ИВТ-201",
+  "semester_start": "2026-01-12",
+  "semester_end": "2026-06-30",
+  "schedule": [
+    {"date": "15.01", "period": 2},
+    {"date": "15.01", "period": 3},
+    {"date": "22.01", "period": 2},
+    {"date": "22.01", "period": 3},
+    {"date": "05.02", "period": 4},
+    {"date": "12.03", "period": 2},
+    {"date": "12.03", "period": 3},
+    {"date": "26.04", "period": 2},
+    {"date": "15.05", "period": 2},
+    {"date": "15.05", "period": 3},
+    {"date": "20.06", "period": 2}
+  ]
+}
